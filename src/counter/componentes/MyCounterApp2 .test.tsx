@@ -1,4 +1,4 @@
-//esta test fue crreeado para evaluar el hookCustom
+//esta test fue crreeado para evaluar la funcionalidad del hookCustom
 //render(<MyCounterApp/>) <-- esto evaluar y renderiza ese componente
 //  y no el useCounter, por eso se crea este segundo test y se hace
 //un moook completo del useCounter
